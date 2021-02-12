@@ -1,0 +1,7 @@
+{
+  "jobs": [
+    { "title": "Developpeur web", "detail": "anas", "id": 1 },
+    { "title": "Developpeur mobile", "detail": "anas", "id": 2 },
+    { "title": "Developpeur Application", "detail": "anas", "id": 3 }
+  ]
+}
